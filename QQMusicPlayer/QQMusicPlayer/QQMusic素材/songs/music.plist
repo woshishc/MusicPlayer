@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>singer</key>
+		<string>凤凰传奇</string>
+		<key>song</key>
+		<string>一路惊喜</string>
+		<key>url</key>
+		<string>一路惊喜.mp3</string>
+		<key>image</key>
+		<string>fenghuangchuanqi.jpg</string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>邓紫棋•GEM</string>
+		<key>song</key>
+		<string>多远都要在一起</string>
+		<key>url</key>
+		<string>多远都要在一起.mp3</string>
+		<key>image</key>
+		<string>gem.jpg</string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>王力宏</string>
+		<key>song</key>
+		<string>你不知道的事</string>
+		<key>url</key>
+		<string>你不知道的事.mp3</string>
+		<key>image</key>
+		<string>wanglihong.jpg</string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>王菲</string>
+		<key>song</key>
+		<string>匆匆那年</string>
+		<key>url</key>
+		<string>匆匆那年.mp3</string>
+		<key>image</key>
+		<string>wangfei.jpg</string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>陈奕迅</string>
+		<key>song</key>
+		<string>浮夸</string>
+		<key>url</key>
+		<string>浮夸.mp3</string>
+		<key>image</key>
+		<string>chenyixun.jpg</string>
+	</dict>
+</array>
+</plist>
